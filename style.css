@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.title{
+    margin-top: 20px;
+    padding-left: 20px;
+    font-size: 40px;
+    color: rgb(4, 62, 132);
+    border: 2px solid rgb(45, 55, 93);
+    
+}
+.content{
+    text-align: center;
+    margin-top: 450px;
+    line-height: 1.5;
+
+}
